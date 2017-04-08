@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<vegetables>
+    <vegetable id="1">
+        <name>tomato</name>
+        <calories>90</calories>
+        <weight>350</weight>
+    </vegetable>
+
+    <vegetable id="2">
+        <name>potato</name>
+        <calories>150</calories>
+        <weight>700</weight>
+    </vegetable>
+
+    <vegetable id="3">
+        <name>cabbage</name>
+        <calories>100</calories>
+        <weight>1000</weight>
+    </vegetable>
+
+    <vegetable id="4">
+        <name>carrot</name>
+        <calories>60</calories>
+        <weight>230</weight>
+    </vegetable>
+
+    <vegetable id="7">
+        <name>cucumber</name>
+        <calories>80</calories>
+        <weight>180</weight>
+    </vegetable>
+</vegetables>
