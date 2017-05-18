@@ -1,3 +1,1 @@
-Hello World!!! =)
-changed from git
-Git GUI
+commit to dev1
