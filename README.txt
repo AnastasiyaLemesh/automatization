@@ -5,4 +5,4 @@ advanced: commit to dev2
 advanced: commit to dev1
 advanced: commit to dev2
 
-conflict develop
+conflict dev
